@@ -1,0 +1,52 @@
+.employee
+{
+    width: 600px;
+    height: 200px;
+    border: 2px solid;
+    border-radius: 10px;
+    box-shadow: 5px 10px #888888;
+}
+
+.general
+{
+    float: left;
+    height: 200px;
+}
+
+.detail
+{
+    height: 200px;
+}
+
+.ename
+{
+   font-weight: bold;
+    width: 200px;
+    display: block;
+    text-align: center;
+}
+
+.general img
+{
+    width: 150px;
+    margin: 25px;
+}
+
+.title
+{
+    font-weight: bold;
+    width: 400px;
+    display: block;
+}
+
+.department
+{
+    width: 400px;
+    display: block;
+}
+
+.email
+{
+    width: 400px;
+    display: block;
+}
